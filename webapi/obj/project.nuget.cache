@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WdSJAZsMcfE9hUhwxnK7E30TfPfQWIp7sGS9GPG68cQHSLBHuI3TpN1VfrkrhfnUD1SbgUU4uZk6c+zYryU0iw==",
+  "dgSpecHash": "iS56kgV0JHKCniwy3X9jggnLbVgjJg97A8pZ6XXS0H+4BRlTBYyFVVyFrxb2FYQd5GF3MDU2UPZrmuEKWYoeHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cchamorro\\source\\repos\\webapi\\webapi\\webapi.csproj",
+  "projectFilePath": "c:\\Users\\cchamorro\\source\\repos\\webapi\\webapi\\webapi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cchamorro\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\cchamorro\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

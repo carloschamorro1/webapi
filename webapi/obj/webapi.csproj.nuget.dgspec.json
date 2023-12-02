@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cchamorro\\source\\repos\\webapi\\webapi\\webapi.csproj": {}
+    "c:\\Users\\cchamorro\\source\\repos\\webapi\\webapi\\webapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cchamorro\\source\\repos\\webapi\\webapi\\webapi.csproj": {
+    "c:\\Users\\cchamorro\\source\\repos\\webapi\\webapi\\webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cchamorro\\source\\repos\\webapi\\webapi\\webapi.csproj",
+        "projectUniqueName": "c:\\Users\\cchamorro\\source\\repos\\webapi\\webapi\\webapi.csproj",
         "projectName": "webapi",
-        "projectPath": "C:\\Users\\cchamorro\\source\\repos\\webapi\\webapi\\webapi.csproj",
+        "projectPath": "c:\\Users\\cchamorro\\source\\repos\\webapi\\webapi\\webapi.csproj",
         "packagesPath": "C:\\Users\\cchamorro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cchamorro\\source\\repos\\webapi\\webapi\\obj\\",
+        "outputPath": "c:\\Users\\cchamorro\\source\\repos\\webapi\\webapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
